@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Alex Brown</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Я, бл***, в своём познании настолько преисполнился,
+        что я как будто бы уже 100 триллионов миллиардов лет, бл***, проживаю на
+        триллионах и триллионах таких же планет, понимаешь? Как эта Земля. Мне уже эт
+        от мир абсолютно понятен, и я здесь ищу только одного: покоя, умиротворения и вот этой гармонии от слияния с бесконечно вечным.
+
+r</string>
+    <string name="radar">radar</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
